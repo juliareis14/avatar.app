@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T11:10:43.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nZZ6f6kPj8xieIf18ITw" version="24.5.4" type="device" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-14T12:46:26.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zds-60BEFfzsHuocbkkn" version="24.5.4" type="device" pages="10">
   <diagram name="Página-1" id="s15k9l_Zhzr2qFT0Oh6H">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,11 +145,95 @@
         <mxCell id="IUdhKtEjKvB3T4d9Fl-a-1" value="CLIENTE NÃO ENCONTRADO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="130" width="230" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="470" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-2" value="Buscar Cliente" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="485" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="545" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="625" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="675" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="730" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="785" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="585" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="735" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="791.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-19" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="90" width="530" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-21" value="Cadastro Cliente" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="65" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="190" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="270" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="350" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-25" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-26" value="TELEFONE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-27" value="ENDEREÇO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="320" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-28" value="FINALIZAR CADASTRO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="55" y="395" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-29" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="405" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WI8DqRZTtqDLTJUMzMlv-30" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="405" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="IeWmozsvaNmjU-cDPaeW" name="Página-2">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,11 +405,125 @@
         <mxCell id="BRuVkSDAWGW5RmVSYFml-1" value="CLIENTE NÃO ENCONTRADO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="130" width="230" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="450" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-2" value="Buscar Pedido" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="525" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="605" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="655" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="710" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="765" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="565" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="715" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="771.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="570" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IwS04ZcK1f9I6UkEQ5iI-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="30" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-22" value="Cadastro Pedido" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-326.25" y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-326.25" y="190" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-322.5" y="315" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-26" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-328.75" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-27" value="UNIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-28" value="VALOR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-323.75" y="285" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-29" value="FINALIZAR PEDIDO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-13.319999999999993" y="330" width="146.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-30" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="375" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-31" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="375" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="191.25" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-34" value="DESCONTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="95" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-35" value="PRAZO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-57.120000000000005" y="167.25" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="275" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-37" value="TOTAL:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-323.75" y="255" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-39" value="PRODUTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-322.5" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-142.5" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjVFTI_velzJ8-_Si3S9-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-132.5" y="197.25" width="20" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="T_9RPqcWAjH2Ph0pimZp" name="Página-3">
-    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,6 +708,111 @@
         </mxCell>
         <mxCell id="XGqI1RsQgn9UB1nF_HBY-1" value="CLIENTE NÃO ENCONTRADO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="300" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="395" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-2" value="Buscar Fornecedor" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-569" y="402.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="462.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="550" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="600" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="655" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="710" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="510" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="605" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="716.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="515" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="715" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yuXzBzUsnLWzQq8UpA-k-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-15" width="520" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-2" value="Cadastro Fornecedor" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="50" width="449" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="120" width="449" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-5" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-6" value="TELEFONE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-7" value="FINALIZAR CADASTRO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="295" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-8" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="155" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-9" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="252.5" width="420" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-11" value="MATÉRIA PRIMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-668" y="130" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-739" y="195" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-13" value="PRODUTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-14" value="UNIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-738" y="256.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-15" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-478" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-16" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-518" y="162.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-17" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bshadow%3D0%3Bdashed%3D0%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bshape%3Dmxgraph.arrows2.arrow%3Bdy%3D0.6%3Bdx%3D40%3Bdirection%3Dsouth%3Bnotch%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22710%22%20y%3D%22596.75%22%20width%3D%2220%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="253.75" width="30" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GANkghwoaLIjsPlgvFtJ-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="262.25" width="20" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -698,11 +1001,95 @@
         <mxCell id="y8kSiLf5ICyKWZCmhYIw-1" value="CLIENTE NÃO ENCONTRADO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="130" width="230" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="395" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-2" value="Buscar Matéria Prima" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-569" y="402.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="462.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="550" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="600" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="655" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="710" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="510" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="605" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="716.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="515" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="715" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777.88" width="530" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-19" value="Cadastro Matéria&lt;div&gt;&amp;nbsp;Prima&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-567.88" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="130" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="200" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-22" value="PRODUTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-23" value="UNIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="170" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-24" value="FINALIZAR CADASTRO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-582.88" y="290" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-25" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="305" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-26" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-27" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bshadow%3D0%3Bdashed%3D0%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bshape%3Dmxgraph.arrows2.arrow%3Bdy%3D0.6%3Bdx%3D40%3Bdirection%3Dsouth%3Bnotch%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22710%22%20y%3D%22596.75%22%20width%3D%2220%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="200" width="30" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDm-kRaotEFvQlpRqLbF-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-324.75" y="208.5" width="20" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3bQ-KgXOw-eEHztnBZkh" name="Página-5">
-    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -957,11 +1344,125 @@
         <mxCell id="-VoLUh4WpGVh3Ngl6anU-1" value="CLIENTE NÃO ENCONTRADO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="75" width="230" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="395" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-2" value="Buscar Produto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-567" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="462.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="550" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="600" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="655" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="710" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="510" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="605" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="716.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="515" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="715" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nO-DEIPxVnx94IZKPhQR-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-10" width="530" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-2" value="Cadastro do Produto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-545" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="50" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-4" value="TIPO DO PRODUTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="15" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-5" value="FINALIZAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="310" width="129" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-6" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="180" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-7" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="175" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="267" width="460" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-9" value="CARACTERÍSTICAS DO PRODUTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-635.5" y="122.5" width="218.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="217.5" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-11" value="COR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-12" value="TECIDO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="268.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-13" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="172.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-482.25" y="177.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="310" width="333" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-16" value="MARCA:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-744.5" y="310" width="54.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="110" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-18" value="UNIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="-319" y="117.25" width="20" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7KAAUnYFAGG31OEKN8lB-24" value="Buscar Produto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-567" y="420.25" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UZ7F_nM2co41FceKBvFE" name="Página-6">
-    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1031,56 +1532,131 @@
         <mxCell id="RsVtjGf6_5GX0E7ycTel-5" value="CANCELAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="601" y="190" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="180" width="270" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-2" value="Buscar Unidade" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-2" value="Buscar Unidade" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-5" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="300" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-4" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-65" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-5" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="125" y="305" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="380" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="430" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="485" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="540" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-65" y="590" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="135" y="385" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="135" y="435" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="135" y="490" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="135" y="545" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-15" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="135" y="595" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-16" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" parent="1" vertex="1">
           <mxGeometry x="115" y="543.75" width="20" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="Qv05Zsa3Frr75qEpwmdc-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Qv05Zsa3Frr75qEpwmdc-17" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-797" y="395" width="560" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-3" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="457.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-4" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="462.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="550" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="600" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="655" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="710" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="510" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-10" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="555" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-11" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="605" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-12" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-13" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="716.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-14" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="515" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-15" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="715" width="20" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-16" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-17" value="Buscar Unidade" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-567" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-40" width="530" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-19" value="Cadastro Unidade" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="70" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-21" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-22" value="FINALIZAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-23" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="295" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-24" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="295" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkP8KNobNdvMAemxnSl9-25" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="35" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1698,110 +2274,110 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uXNOqSH6_Mx4JpN2-pDf" name="Página-10">
-    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="117.5" y="275" width="285" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-2" value="Cadastro Estamparia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-2" value="Cadastro Estamparia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="370" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="430" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148.75" y="555" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-6" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-6" value="NOME:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-7" value="QUANTIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-7" value="QUANTIDADE:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-8" value="ENTRADA:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-8" value="ENTRADA:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="146.25" y="525" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-9" value="FINALIZAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-9" value="FINALIZAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="800" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-10" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-10" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="320" y="820" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-11" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-11" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="360" y="820" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148.75" y="620" width="221.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-13" value="PRAZO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-13" value="PRAZO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="590" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="100" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-15" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-15" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="515" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-16" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-16" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="605" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-17" value="EXCLUIR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-17" value="EXCLUIR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-18" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-18" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBitbucket_Logo.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22350%22%20y%3D%22730%22%20width%3D%2230%22%20height%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22image%3Bhtml%3D1%3Bimage%3Dimg%2Flib%2Fatlassian%2FBamboo_Logo.svg%3Bdirection%3Deast%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22390%22%20y%3D%22727.5%22%20width%3D%2230%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-187.5" y="275" width="270" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-19" value="Busca Estamparia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-19" value="Busca Estamparia" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-102.5" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="400" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-21" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-21" value="BUSCAR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-22" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-22" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="32.5" y="405" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="110" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-24" value="CADASTRO FINALIZADO&lt;div&gt;COM SUCESSO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-24" value="CADASTRO FINALIZADO&lt;div&gt;COM SUCESSO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="140" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="272.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-26" value="CADASTRO ATUALIZADO COM SUCESSO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-26" value="CADASTRO ATUALIZADO COM SUCESSO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="307.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-27" value="BUSCA NÃO ENCONTRADA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-27" value="BUSCA NÃO ENCONTRADA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="652.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="500" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="550" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="600" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="650" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="700" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-162.5" y="750" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7VQL76Q7mcHAbW8NEgXb-35" target="7VQL76Q7mcHAbW8NEgXb-61">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7VQL76Q7mcHAbW8NEgXb-35" target="7VQL76Q7mcHAbW8NEgXb-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="615" />
@@ -1809,61 +2385,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-35" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-35" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="37.5" y="605" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-36" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-36" value="" style="image;html=1;image=img/lib/atlassian/Bamboo_Logo.svg;direction=east;" parent="1" vertex="1">
           <mxGeometry x="12.5" y="603.75" width="20" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-37" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-37" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="800" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="495" width="152.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-39" value="PRODUTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-39" value="PRODUTO:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="148.75" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-40" value="DADOS INVÁLIDOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-40" value="DADOS INVÁLIDOS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="482.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="905" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-42" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-42" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-43" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-43" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-44" value="FINALIZAR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-44" value="FINALIZAR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="930" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="852.5" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-46" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-46" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="530" y="922.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-47" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-47" value="NÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="620" y="922.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-48" value="DESEJA ATUALIZAR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-48" value="DESEJA ATUALIZAR?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="872.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="377.25" width="20" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="300" y="496.25" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="502.25" width="20" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7VQL76Q7mcHAbW8NEgXb-54">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7VQL76Q7mcHAbW8NEgXb-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="431.25" y="230" as="targetPoint" />
             <Array as="points">
@@ -1871,28 +2447,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="496.25" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-55" value="UNIDADE DE MEDIDA JÁ CADASTRADA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-55" value="UNIDADE DE MEDIDA JÁ CADASTRADA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-56" value="CARACTERÍSTICA DOS PRODUTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-56" value="CARACTERÍSTICA DOS PRODUTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="173.75" y="670" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148.13" y="730" width="221.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-58" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-58" value="+" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="354.63" y="690" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-59" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-59" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="315.38" y="695" width="25.25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-60" value="COR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-60" value="COR:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="730" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VQL76Q7mcHAbW8NEgXb-61" value="Lixo e atualizar em todas as caixas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7VQL76Q7mcHAbW8NEgXb-61" value="Lixo e atualizar em todas as caixas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-37.5" y="900" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
