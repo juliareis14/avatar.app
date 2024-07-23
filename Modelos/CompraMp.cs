@@ -1,8 +1,10 @@
+namespace Modelos
+{
 public class CompraMp: pessoa
 {
     string nome;
     string telefone;
-    string id;
+    int id;
     string materiaPrima;
     string unidade;
     decimal valor;
@@ -28,11 +30,11 @@ public class CompraMp: pessoa
     }
 
 
-      public void SetId (string id)
+      public void SetId (int id)
     {
         this.id= id;
     }
-    public string GetId()
+    public int GetId()
     {
         return id;
     }
@@ -68,4 +70,5 @@ public class CompraMp: pessoa
     }
 
     
+}
 }

@@ -1,12 +1,14 @@
-public class Fornecedor : pessoa
-{   
+namespace Modelos
+{
+public class VendaProduto : pessoa
+ {   
     string nome;
     string telefone;
-    string id;
-    string tipodoproduto;
+    int id;
+    string produto;
     string unidade;
      Int64 id;
-    public void SetNome (string nome)
+      public void SetNome (string nome)
     {
         this.nome= nome;
     }
@@ -26,23 +28,23 @@ public class Fornecedor : pessoa
     }
 
 
-      public void SetId (string id)
+      public void SetId (int id)
     {
         this.id= id;
     }
-    public string GetId()
+    public int GetId()
     {
         return id;
     }
 
     
-       public void SetTipodoproduto (string Tipodoproduto)
+       public void SetProduto (string produto)
     {
-        this.tipodoproduto= tipodoproduto;
+        this.produto= produto;
     }
-    public string GetTipodoproduto()
+    public string GetProduto()
     {
-        return tipodoproduto;
+        return produto;
     }
 
     
@@ -54,4 +56,5 @@ public class Fornecedor : pessoa
     {
         return unidade;
     }
+ }
 }

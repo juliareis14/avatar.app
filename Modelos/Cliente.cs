@@ -1,10 +1,12 @@
-public class VendaProduto : pessoa
+namespace Modelos
+{
+public class Cliente : pessoa
 {   
     string nome;
     string telefone;
-    string id;
-    string produto;
-    string unidade;
+    int id;
+    string endereco;
+
      Int64 id;
       public void SetNome (string nome)
     {
@@ -26,32 +28,24 @@ public class VendaProduto : pessoa
     }
 
 
-      public void SetId (string id)
+      public void SetId (int id)
     {
         this.id= id;
     }
-    public string GetId()
+    public int GetId()
     {
         return id;
     }
 
     
-       public void SetProduto (string produto)
+       public void SetEndereco (string endereco)
     {
-        this.produto= produto;
+        this.endereco= endereco;
     }
-    public string GetProduto()
+    public string GetEndereco()
     {
-        return produto;
+        return endereco;
     }
 
-    
-       public void SetUnidade (string unidade)
-    {
-        this.unidade= unidade;
-    }
-    public string GetUnidade()
-    {
-        return unidade;
-    }
+}
 }
