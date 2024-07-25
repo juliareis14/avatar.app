@@ -1,6 +1,6 @@
 namespace Modelos
 {  
-  public class FornecedorMp
+  public class FornecedorMp : pessoa
     {
         int idmp;
         int idfornecedor;
