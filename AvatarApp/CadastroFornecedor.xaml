@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AvatarApp.CadastroFornecedor"
+             Title="Cadastro Fornecedor">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="10">
+            <Label Text="Cadastro Fornecedor" 
+                   FontSize="Large" 
+                   HorizontalOptions="Center" 
+                   FontAttributes="Bold"/>
+            
+            <Label Text="Nome:" />
+            <Entry x:Name="NomeEntry" Placeholder="Nome"/>
+
+            <Label Text="Telefone:" />
+            <Entry x:Name="TelefoneEntry" Placeholder="Telefone"/>
+
+            <Label Text="Matéria Prima" FontAttributes="Bold"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                <Button Text="🗑" WidthRequest="40" HeightRequest="40" Clicked="OnDeleteMateriaPrimaClicked"/>
+                <Button Text="+" WidthRequest="40" HeightRequest="40" Clicked="OnAddMateriaPrimaClicked"/>
+            </StackLayout>
+
+            <Label Text="Produto:" />
+            <Entry x:Name="ProdutoEntry" Placeholder="Produto"/>
+
+            <Label Text="Unidade:" />
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="UnidadeEntry" Placeholder="Unidade" HorizontalOptions="FillAndExpand"/>
+                <Button Text="▼" WidthRequest="40" Clicked="OnSelectUnidadeClicked"/>
+            </StackLayout>
+
+            <Button Text="Finalizar Cadastro" 
+                    BackgroundColor="#87CEEB" 
+                    TextColor="White" 
+                    Clicked="OnFinalizarCadastroClicked"
+                    HorizontalOptions="Center"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="20">
+                <Button Text="🗑" WidthRequest="40" HeightRequest="40" Clicked="OnDeleteClicked"/>
+                <Button Text="🔄" WidthRequest="40" HeightRequest="40" Clicked="OnRefreshClicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+    
+</ContentPage>

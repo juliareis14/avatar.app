@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 
-namespace SeuNamespace
+namespace AvatarApp
 {
     public partial class CadastroClientePage : ContentPage
     {
