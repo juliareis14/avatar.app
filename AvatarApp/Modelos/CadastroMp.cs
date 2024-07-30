@@ -5,7 +5,7 @@ public class CadastroMp
     int id;
     string tipodoproduto;
     string unidade;
-     Int64 id;
+     
 
      public void SetId (int id)
     {

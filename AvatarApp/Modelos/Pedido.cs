@@ -11,7 +11,7 @@ namespace Modelos
         decimal desconto;
         decimal total;
         string prazo;
-        Int64 id;
+      
         public void SetNome (string nome)
         {
             this.nome= nome;

@@ -7,7 +7,7 @@ public class Estampador : pessoa
     int id;
     string endereco;
 
-     Int64 id;
+    
       public void SetNome (string nome)
     {
         this.nome= nome;

@@ -7,7 +7,7 @@ namespace Modelos
     string entrada;
     int fornecedor;
     int id;
-     Int64 id;
+     
 
     public void SetMateriaPrima (string materiaPrima)
     {
@@ -42,7 +42,7 @@ namespace Modelos
     }
     public int GetFornecedor()
     {
-        return idfornecedor;
+        return fornecedor;
     }
 
      public void SetId (int id)

@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AvatarApp.CadastroCostura"
-             Title="Cadastro Costura">
+             x:Class="AvatarApp.CadastroProdutoPage"
+             Title="Cadastro Produto">
 
     <ScrollView>
         <StackLayout Padding="20">
-            <Label Text="Cadastro Costura" 
+            <Label Text="Cadastro Produto" 
                    FontAttributes="Bold" 
                    FontSize="Large" 
                    HorizontalOptions="Center" 
                    Margin="0,0,0,20"/>
 
-            <Label Text="Nome:"/>
-            <Picker x:Name="nomePicker"/>
+            <Label Text="Tipo do Produto:"/>
+            <Entry x:Name="tipoProdutoEntry"/>
 
-            <Label Text="Produto:"/>
-            <Picker x:Name="produtoPicker"/>
-
-            <Label Text="Quantidade:"/>
-            <Entry x:Name="quantidadeEntry" Keyboard="Numeric"/>
-
-            <Label Text="Entrada:"/>
-            <Entry x:Name="entradaEntry"/>
-
-            <Label Text="Prazo:"/>
-            <Entry x:Name="prazoEntry"/>
+            <Label Text="Unidade:"/>
+            <Picker x:Name="unidadePicker"/>
 
             <Label Text="Características do Produto:"/>
             <StackLayout Orientation="Horizontal">
@@ -35,6 +26,12 @@
 
             <Label Text="Cor:"/>
             <Entry x:Name="corEntry"/>
+
+            <Label Text="Tecido:"/>
+            <Entry x:Name="tecidoEntry"/>
+
+            <Label Text="Marca:"/>
+            <Entry x:Name="marcaEntry"/>
 
             <Button Text="Cadastrar" 
                     BackgroundColor="#2196F3" 

@@ -7,8 +7,7 @@ public class Fornecedor : pessoa
     int id;
     string tipodoproduto;
     string unidade;
-     Int64 id;
-    public void SetNome (string nome)
+        public void SetNome (string nome)
     {
         this.nome= nome;
     }

@@ -6,7 +6,7 @@
     string telefone;
     int id;
 
-    public void GetNome()
+    public string GetNome()
     {
         return nome;
     }
@@ -15,7 +15,7 @@
         nome=n;
     }
 
-     public void GetTelefone()
+     public string GetTelefone()
     {
         return telefone;
     }
@@ -24,7 +24,7 @@
         nome=t;
     }
 
-     public void GetId()
+     public int GetId()
     {
         return id;
     }

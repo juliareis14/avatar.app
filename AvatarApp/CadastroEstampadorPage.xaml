@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AvatarApp.CadastroUnidade"
-             Title="Cadastro Unidade">
+             x:Class="AvatarApp.CadastroEstampadorPage"
+             Title="Cadastro Estampador">
 
     <ScrollView>
         <StackLayout Padding="20" Spacing="10">
-            <Label Text="Cadastro Unidade" 
+            <Label Text="Cadastro Estampador" 
                    FontSize="Large" 
                    HorizontalOptions="Center" 
                    FontAttributes="Bold"/>
             
-            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
-                <Label Text="Nome:" VerticalOptions="Center"/>
+            <Label Text="Nome:" />
+            <StackLayout Orientation="Horizontal">
                 <Entry x:Name="NomeEntry" Placeholder="Nome" HorizontalOptions="FillAndExpand"/>
-                <Button Text="+" 
-                        WidthRequest="40"
-                        HeightRequest="40"
-                        Clicked="OnAddClicked"/>
+                <Button Text="▼" WidthRequest="40" Clicked="OnSelectNomeClicked"/>
             </StackLayout>
-            
+
+            <Label Text="Telefone:" />
+            <Entry x:Name="TelefoneEntry" Placeholder="Telefone" Keyboard="Telephone"/>
+
+            <Label Text="Endereço:" />
+            <Entry x:Name="EnderecoEntry" Placeholder="Endereço"/>
+
             <Button Text="Cadastrar" 
                     BackgroundColor="#87CEEB" 
                     TextColor="White" 
                     Clicked="OnCadastrarClicked"
                     HorizontalOptions="Center"/>
-            
+
             <Button Text="Voltar" 
                     Clicked="OnVoltarClicked"
                     HorizontalOptions="Center"/>

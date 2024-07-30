@@ -8,7 +8,7 @@ namespace Modelos
     string tecido;
     string marca;
     int id;
-    Int64 id;
+    
 
 
     public void SetTipodoproduto (string tipodoproduto)

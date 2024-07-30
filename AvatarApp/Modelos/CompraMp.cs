@@ -9,8 +9,7 @@ public class CompraMp
     string unidade;
     decimal valor;
 
-    Int64 id;
-    public void SetNome (string nome)
+       public void SetNome (string nome)
     {
         this.nome= nome;
     }

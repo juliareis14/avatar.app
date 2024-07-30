@@ -5,7 +5,7 @@ namespace Modelos
   string nome;
   int id;
 
- Int64 id;
+ 
     public void SetNome (string nome)
     {
         this.nome= nome;

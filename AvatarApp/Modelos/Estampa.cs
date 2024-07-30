@@ -10,7 +10,7 @@ namespace Modelos
         string quantidade;
         string entrada;
         string cor;
-        Int64 id;
+       
 
          public void SetNome (string nome)
         {
@@ -77,6 +77,5 @@ namespace Modelos
             return entrada;
         }
 
-        s
- }
+  }
 }
