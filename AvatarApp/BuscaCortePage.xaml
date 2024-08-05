@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AvatarApp.BuscarCortePage"
+             Title="Buscar Corte">
+
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Label Text="Buscar Corte" 
+                   FontAttributes="Bold" 
+                   FontSize="Large" 
+                   HorizontalOptions="Center" 
+                   Margin="0,0,0,20"/>
+
+            <Label Text="Buscar:"/>
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="buscarEntry"/>
+                <Image Source="carrinho.png" WidthRequest="30" HeightRequest="30"/>
+                <Image Source="refresh.png" WidthRequest="30" HeightRequest="30"/>
+            </StackLayout>
+
+            <Button Text="+" WidthRequest="30" HeightRequest="30" VerticalOptions="EndAndExpand"/>
+
+            <!-- Frame para Exclusão -->
+            <Frame IsVisible="False" x:Name="excluirFrame" Padding="10" Margin="0,20,0,0" BackgroundColor="#F5F5F5" CornerRadius="10" HorizontalOptions="Center">
+                <StackLayout>
+                    <Label Text="EXCLUIR?" HorizontalOptions="Center"/>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text="SIM" WidthRequest="100"/>
+                        <Button Text="NÃO" WidthRequest="100"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <!-- Frame para Atualização -->
+            <Frame IsVisible="False" x:Name="atualizarFrame" Padding="10" Margin="0,20,0,0" BackgroundColor="#F5F5F5" CornerRadius="10" HorizontalOptions="Center">
+                <StackLayout>
+                    <Label Text="DESEJA ATUALIZAR?" HorizontalOptions="Center"/>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Button Text="SIM" WidthRequest="100"/>
+                        <Button Text="NÃO" WidthRequest="100"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
