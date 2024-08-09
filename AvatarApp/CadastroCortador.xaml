@@ -1,15 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AvatarApp.CadastroCortador"
              Title="Cadastro Cortador">
              
     <ContentPage.Content>
-        <VerticalStackLayout Spacing="20">
-            <Entry Placeholder="Nome" />
-            <Entry Placeholder="Telefone" Keyboard="Telephone" />
-            <Entry Placeholder="Endereço" />
+        <VerticalStackLayout Spacing="20" Padding="20">
+            <Entry x:Name="NomeEntry" Placeholder="Nome" />
+            <Entry x:Name="TelefoneEntry" Placeholder="Telefone" Keyboard="Telephone" />
+            <Entry x:Name="EnderecoEntry" Placeholder="Endereço" />
             <Button Text="Cadastrar" Clicked="Cadastrar_Clicked" />
-            <Button Text="Voltar" />
+            <Button Text="Voltar" Clicked="Voltar_Clicked" />
+
+            <Frame BorderColor="Black" CornerRadius="10" Padding="10">
+                <VerticalStackLayout>
+                    <Label Text="EXCLUIR CLIENTE?" 
+                           HorizontalOptions="Center" 
+                           FontAttributes="Bold"/>
+                    <HorizontalStackLayout HorizontalOptions="Center" Spacing="20">
+                        <Button Text="SIM" Clicked="OnExcluirSimClicked" BackgroundColor="#87CEEB"/>
+                        <Button Text="NÃO" Clicked="OnExcluirNaoClicked" BackgroundColor="#87CEEB"/>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
+            
+            <Frame BorderColor="Black" CornerRadius="10" Padding="10">
+                <VerticalStackLayout>
+                    <Label Text="DESEJA ATUALIZAR?" 
+                           HorizontalOptions="Center" 
+                           FontAttributes="Bold"/>
+                    <HorizontalStackLayout HorizontalOptions="Center" Spacing="20">
+                        <Button Text="SIM" Clicked="OnAtualizarSimClicked" BackgroundColor="#87CEEB"/>
+                        <Button Text="NÃO" Clicked="OnAtualizarNaoClicked" BackgroundColor="#87CEEB"/>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
         </VerticalStackLayout>
     </ContentPage.Content>
 </ContentPage>

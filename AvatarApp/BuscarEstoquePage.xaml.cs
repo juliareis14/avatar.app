@@ -1,7 +1,7 @@
 using System;
 using Microsoft.Maui.Controls;
 
-namespace AvatarApp
+namespace SeuNamespace
 {
     public partial class BuscarEstoquePage : ContentPage
     {
@@ -10,25 +10,39 @@ namespace AvatarApp
             InitializeComponent();
         }
 
-        private async void OnExcluirClicked(object sender, EventArgs e)
+        private void OnExcluirClicked(object sender, EventArgs e)
         {
-            bool answer = await DisplayAlert("Excluir?", "Deseja realmente excluir?", "Sim", "Não");
-            if (answer)
-            {
-                // Lógica para excluir o item
-            }
+            excluirFrame.IsVisible = true;
         }
 
-        private async void OnAtualizarClicked(object sender, EventArgs e)
+        private void OnAtualizarClicked(object sender, EventArgs e)
         {
-            bool answer = await DisplayAlert("Atualizar?", "Deseja realmente atualizar?", "Sim", "Não");
-            if (answer)
-            {
-                // Lógica para atualizar o item
-            }
+            atualizarFrame.IsVisible = true;
         }
 
-        private async void OnAdicionarClicked(object sender, EventArgs e)
+        private void OnConfirmarExcluirClicked(object sender, EventArgs e)
+        {
+            // Lógica para excluir o item
+            excluirFrame.IsVisible = false;
+        }
+
+        private void OnCancelarExcluirClicked(object sender, EventArgs e)
+        {
+            excluirFrame.IsVisible = false;
+        }
+
+        private void OnConfirmarAtualizarClicked(object sender, EventArgs e)
+        {
+            // Lógica para atualizar o item
+            atualizarFrame.IsVisible = false;
+        }
+
+        private void OnCancelarAtualizarClicked(object sender, EventArgs e)
+        {
+            atualizarFrame.IsVisible = false;
+        }
+
+        private void OnAdicionarClicked(object sender, EventArgs e)
         {
             // Lógica para adicionar um novo item
         }
