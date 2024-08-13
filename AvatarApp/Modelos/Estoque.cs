@@ -1,59 +1,16 @@
-namespace Modelos
-{
-    public class Estoque 
+using LiteDB;
+
+namespace AvatarApp.Modelos;
+
+    public class Estoque
  {
-    string materiaPrima;
-    string quantidade;
-    string entrada;
-    int fornecedor;
-    int id;
+    [BsonId]
+    public int Id { get; set; }
+    public string MateriaPrima { get; set; }
+    public string Quantidade { get; set; }
+    public string Entrada { get; set; }
+    public int Fornecedor { get; set; }
+ }
      
 
-    public void SetMateriaPrima (string materiaPrima)
-    {
-        this.materiaPrima= materiaPrima;
-    }
-    public string GetMateriaPrima()
-    {
-        return materiaPrima;
-    }
-
-     public void SetQuantidade (string quantidade)
-    {
-        this.quantidade= quantidade;
-    }
-    public string GetQuantidade()
-    {
-        return quantidade;
-    }
-
-     public void SetEntrada (string entrada)
-    {
-        this.entrada= entrada;
-    }
-    public string GetEntrada()
-    {
-        return entrada;
-    }
-
-     public void SetFornecedor (int fornecedor)
-    {
-        this.fornecedor= fornecedor;
-    }
-    public int GetFornecedor()
-    {
-        return fornecedor;
-    }
-
-     public void SetId (int id)
-    {
-        this.id= id;
-    }
-    public int GetId()
-    {
-        return id;
-    }
-        
- }
-
-}       
+    

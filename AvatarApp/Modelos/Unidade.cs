@@ -1,27 +1,14 @@
-namespace Modelos
-{
+using LiteDB;
+
+namespace AvatarApp.Modelos;
+
   public class Unidade
  {
-  string nome;
-  int id;
+    [BsonId]
+    public int Id { get; set; }
+    public string Nome { get; set; }
+
+ }
 
  
-    public void SetNome (string nome)
-    {
-        this.nome= nome;
-    }
-    public string GetNome()
-    {
-        return nome;
-    }
-
-          public void SetId (int id)
-    {
-        this.id= id;
-    }
-    public int GetId()
-    {
-        return id;
-    }
- }
-}
+   

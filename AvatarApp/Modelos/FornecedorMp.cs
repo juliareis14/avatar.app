@@ -1,30 +1,13 @@
+using AvatarApp.Modelos;
+using LiteDB;
+
 namespace Modelos
 {  
-  public class FornecedorMp : pessoa
+  public class FornecedorMp : Pessoa
     {
-        int idmp;
-        int idfornecedor;
-        Int64 id;
-
-         public void SetIdmp (int idmp)
-        {
-            this.idmp= idmp;
-        }
-        public int GetIdmp()
-        {
-            return idmp;
-        }
-
-
-         public void SetIdfornecedor (int idfornecedor)
-        {
-            this.idfornecedor= idfornecedor;
-        }
-        public int GetIdfornecedor()
-        {
-            return idfornecedor;
-        }
-
-  }
-
+        [BsonId]
+        public int Idmp { get; set; }
+        public int Idfornecedor { get; set; }
+    }
 }
+        

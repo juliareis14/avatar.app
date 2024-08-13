@@ -1,39 +1,13 @@
-namespace Modelos
-{
+using LiteDB;
+
+namespace AvatarApp.Modelos;
+
 public class CadastroMp
 {
-    int id;
-    string tipodoproduto;
-    string unidade;
+    [BsonId]
+    public int Id { get; set; }
+    public string Tipodoproduto { get; set; }
+    public string Unidade { get; set; }
+}
+
      
-
-     public void SetId (int id)
-    {
-        this.id= id;
-    }
-    public int GetId()
-    {
-        return id;
-    }
-
-    
-       public void SetTipodoproduto (string tipodoproduto)
-    {
-        this.tipodoproduto= tipodoproduto;
-    }
-    public string GetTipodoproduto()
-    {
-        return tipodoproduto;
-    }
-
-    
-       public void SetUnidade (string unidade)
-    {
-        this.unidade= unidade;
-    }
-    public string GetUnidade()
-    {
-        return unidade;
-    }
-}
-}

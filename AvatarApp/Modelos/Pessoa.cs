@@ -1,37 +1,14 @@
- namespace Modelos
-{
- public class pessoa
+
+using Avatarapp.Modelos;
+using LiteDB;
+
+ namespace AvatarApp.Modelos;
+ public class Pessoa : Registro
  {
-    string nome;
-    string telefone;
-    int id;
-
-    public string GetNome()
-    {
-        return nome;
-    }
-    public void SetNome (string n)
-    {
-        nome=n;
-    }
-
-     public string GetTelefone()
-    {
-        return telefone;
-    }
-    public void SetTelefone (string t)
-    {
-        nome=t;
-    }
-
-     public int GetId()
-    {
-        return id;
-    }
-    public void SetId (int i)
-    {
-        id=i;
-    }
+    [BsonId]
+    public int Id { get; set; }
+    public string Nome { get; set; }
+    public string Telefone { get; set; }
 
  }
-}
+    
