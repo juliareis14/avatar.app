@@ -10,7 +10,7 @@ public class CadastroMpControle : BaseControle
 
   public CadastroMpControle() : base()
   {
-    NomeDaTabela = "Clientes";
+    NomeDaTabela = "CadastroMp";
   }
 
   //----------------------------------------------------------------------------
@@ -26,7 +26,7 @@ public class CadastroMpControle : BaseControle
   public virtual List<CadastroMp>? LerTodos()
   {
     var tabela = liteDB.GetCollection<CadastroMp>(NomeDaTabela);
-    return new List<CadastroMp>(tabela.FindAll().OrderBy(d => d.Sobrenome));
+    return new List<CadastroMp>(tabela.FindAll().OrderBy(d => d.Id));
   }
 
   //----------------------------------------------------------------------------

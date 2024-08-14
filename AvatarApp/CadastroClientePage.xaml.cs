@@ -27,8 +27,12 @@ namespace AvatarApp
 
         private void OnExcluirSimClicked(object sender, EventArgs e)
         {
-            // Lógica para excluir o cliente
-            DisplayAlert("Exclusão", "Cliente excluído com sucesso!", "OK");
+            {
+			ExcluirCliente.IsVisible = true;
+			}
+           
+
+
         }
 
         private void OnExcluirNaoClicked(object sender, EventArgs e)
@@ -45,8 +49,9 @@ namespace AvatarApp
 
         private void OnAtualizarNaoClicked(object sender, EventArgs e)
         {
-            // Lógica para cancelar a atualização
-            DisplayAlert("Atualização", "Ação cancelada.", "OK");
+            {
+			AtualizarCliente.IsVisible = true;
+			}
         }
     }
 }

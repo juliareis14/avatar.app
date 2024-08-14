@@ -1,6 +1,6 @@
 using LiteDB;
 
-using Avatarapp.Modelos;
+using AvatarApp.Modelos;
 
 namespace Controles;
 
