@@ -23,7 +23,8 @@
             <Button Text="Estoque" x:Name="EstoqueButton" />
             <Button Text="Estamparia" x:Name="EstampariaButton" />
             <Button Text="Estampador" x:Name="EstampadorButton" />
-            <Button Text="Costureira" x:Name="CostureiraButton" />
+            <Button Text="Costureira" x:Name="CostureiraButton" 
+                    BackgroundColor="black"/>
         </StackLayout>
     </ScrollView>
 </ContentPage>
