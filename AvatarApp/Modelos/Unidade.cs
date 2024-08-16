@@ -2,7 +2,7 @@ using LiteDB;
 
 namespace AvatarApp.Modelos;
 
-  public class Unidade
+  public class Unidade : Registro
  {
     [BsonId]
     public int Id { get; set; }

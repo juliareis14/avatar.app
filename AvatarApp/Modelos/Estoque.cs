@@ -2,7 +2,7 @@ using LiteDB;
 
 namespace AvatarApp.Modelos;
 
-    public class Estoque
+    public class Estoque : Registro
  {
     [BsonId]
     public int Id { get; set; }
