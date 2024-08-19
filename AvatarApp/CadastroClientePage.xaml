@@ -38,6 +38,7 @@
                     <Label Text="EXCLUIR CLIENTE?"
                            HorizontalOptions="Center"
                            FontAttributes="Bold"/>
+
                     <StackLayout Orientation="Horizontal"
                             HorizontalOptions="Center"
                             Spacing="20">

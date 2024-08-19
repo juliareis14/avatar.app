@@ -1,12 +1,17 @@
+using AvatarApp.Modelos;
 using Microsoft.Maui.Controls;
 
 namespace AvatarApp
 {
     public partial class CadastroPedidoPage : ContentPage
     {
+          Controles.ClienteControle clienteControle = new Controles.ClienteControle();
+          Controles.UnidadeControle unidadeControle = new Controles.UnidadeControle();
         public CadastroPedidoPage()
         {
             InitializeComponent();
+            pickerPedido.ItemsSource = clienteControle.LerTodos();
+            pickerPedido.ItemsSource = unidadeControle.LerTodos();
         }
 
         private void OnSelectClienteClicked(object sender, EventArgs e)
@@ -21,11 +26,13 @@ namespace AvatarApp
 
         private void OnCadastrarClicked(object sender, EventArgs e)
         {
+            var p =new Pedido();
+            p.Cliente = pickerPedido.SelectedItem as Cliente;
+
             // Lógica para o botão "Cadastrar"
-            string nomeCliente = NomeClienteEntry.Text;
+            
             string telefone = TelefoneEntry.Text;
             string produto = ProdutoEntry.Text;
-            string unidadeMedida = UnidadeMedidaEntry.Text;
             string valor = ValorEntry.Text;
             string desconto = DescontoEntry.Text;
             string prazo = PrazoEntry.Text;

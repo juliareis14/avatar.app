@@ -13,10 +13,9 @@
 
             <StackLayout>
                 <Label Text="Nome Cliente:" />
-                <StackLayout Orientation="Horizontal">
-                    <Entry x:Name="NomeClienteEntry" Placeholder="Nome Cliente" HorizontalOptions="FillAndExpand"/>
-                    <Button Text="▼" WidthRequest="40" Clicked="OnSelectClienteClicked"/>
-                </StackLayout>
+
+                <Picker x:Name="pickerEstado"
+                        ItemDisplayBinding="{Binding Nome}"/>
             </StackLayout>
 
             <Label Text="Telefone:" />
@@ -27,10 +26,9 @@
 
             <StackLayout>
                 <Label Text="Unidade de Medida:" />
-                <StackLayout Orientation="Horizontal">
-                    <Entry x:Name="UnidadeMedidaEntry" Placeholder="Unidade de Medida" HorizontalOptions="FillAndExpand"/>
-                    <Button Text="▼" WidthRequest="40" Clicked="OnSelectUnidadeMedidaClicked"/>
-                </StackLayout>
+                 <Picker x:Name="pickerPedido"
+                        ItemDisplayBinding="{Binding Nome}"/>
+                
             </StackLayout>
 
             <Label Text="Valor:" />

@@ -22,10 +22,10 @@ public class ProdutoControle : BaseControle
 
   //----------------------------------------------------------------------------
 
-  public virtual List<Cliente>? LerTodos()
+  public virtual List<Produto>? LerTodos()
   {
     var tabela = liteDB.GetCollection<Produto>(NomeDaTabela);
-    return new List<Cliente>(tabela.FindAll().OrderBy(d => d.Id));
+    return new List<Produto>(tabela.FindAll().OrderBy(d => d.Id));
   }
 
   //----------------------------------------------------------------------------

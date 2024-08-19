@@ -22,7 +22,7 @@ public class UnidadeControle : BaseControle
 
   //----------------------------------------------------------------------------
 
-  public virtual List<Cliente>? LerTodos()
+  public virtual List<Unidade>? LerTodos()
   {
     var tabela = liteDB.GetCollection<Unidade>(NomeDaTabela);
     return new List<Unidade>(tabela.FindAll().OrderBy(d => d.Nome));
