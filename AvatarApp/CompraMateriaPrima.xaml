@@ -11,19 +11,19 @@
                    FontSize="Large"
                    HorizontalOptions="Center" />
 
-            <Entry x:Name="NomeFornecedorEntry"
-                   Placeholder="NOME FORNECEDOR:" />
+            <Label Text="Fornecedor:"/>
+            <Picker x:Name="pickerFornecedor"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
-            <Entry x:Name="TelefoneEntry"
-                   Placeholder="TELEFONE:"
-                   Keyboard="Telephone" />
 
-            <Entry x:Name="MateriaPrimaEntry"
-                   Placeholder="MATÉRIA PRIMA:" />
+            <Label Text="Matéria Prima:"/>
+            <Picker x:Name="pickerCompraMp"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
-            <Picker x:Name="UnidadeDeMedidaPicker"
-                    Title="UNIDADE DE MEDIDA:"
-                    ItemsSource="{Binding Unidades}" />
+
+            <Label Text="Unidade:"/>
+            <Picker x:Name="pickerUnidade"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Entry x:Name="ValorEntry"
                    Placeholder="VALOR:"

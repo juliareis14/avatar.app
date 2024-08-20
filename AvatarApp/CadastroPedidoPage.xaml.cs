@@ -7,11 +7,13 @@ namespace AvatarApp
     {
           Controles.ClienteControle clienteControle = new Controles.ClienteControle();
           Controles.UnidadeControle unidadeControle = new Controles.UnidadeControle();
+          Controles.ProdutoControle produtoControle = new Controles.ProdutoControle();
         public CadastroPedidoPage()
         {
             InitializeComponent();
             pickerPedido.ItemsSource = clienteControle.LerTodos();
             pickerPedido.ItemsSource = unidadeControle.LerTodos();
+            pickerProduto.ItemsSource = produtoControle.LerTodos();
         }
 
         private void OnSelectClienteClicked(object sender, EventArgs e)
@@ -31,8 +33,6 @@ namespace AvatarApp
 
             // Lógica para o botão "Cadastrar"
             
-            string telefone = TelefoneEntry.Text;
-            string produto = ProdutoEntry.Text;
             string valor = ValorEntry.Text;
             string desconto = DescontoEntry.Text;
             string prazo = PrazoEntry.Text;

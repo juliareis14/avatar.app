@@ -18,11 +18,9 @@
                         ItemDisplayBinding="{Binding Nome}"/>
             </StackLayout>
 
-            <Label Text="Telefone:" />
-            <Entry x:Name="TelefoneEntry" Placeholder="Telefone"/>
-
             <Label Text="Produto:" />
-            <Entry x:Name="ProdutoEntry" Placeholder="Produto"/>
+             <Picker x:Name="pickerProduto"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <StackLayout>
                 <Label Text="Unidade de Medida:" />

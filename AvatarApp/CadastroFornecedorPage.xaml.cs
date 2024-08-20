@@ -1,48 +1,37 @@
+using System.Collections.Generic;
 using Microsoft.Maui.Controls;
 
 namespace AvatarApp
 {
     public partial class CadastroFornecedorPage : ContentPage
     {
+        Controles.UnidadeControle unidadeControle = new Controles.UnidadeControle();
+        Controles.UnidadeControle produtoControle = new Controles.UnidadeControle();
+        public List<string> Unidades { get; set; }
+
         public CadastroFornecedorPage()
         {
             InitializeComponent();
+
+            pickerUnidade.ItemsSource = unidadeControle.LerTodos();
+            pickerProduto.ItemsSource = produtoControle.LerTodos();
+
+
+
+            FinalizarButton.Clicked += OnFinalizarButtonClicked;
+            VoltarButton.Clicked += OnVoltarButtonClicked;
         }
 
-        private void OnAddMateriaPrimaClicked(object sender, EventArgs e)
+        private async void OnFinalizarButtonClicked(object sender, EventArgs e)
         {
-            // Lógica para adicionar matéria prima
+            // Lógica para finalizar o cadastro
+            await DisplayAlert("Cadastro", "Cadastro finalizado com sucesso!", "OK");
         }
 
-        private void OnDeleteMateriaPrimaClicked(object sender, EventArgs e)
+        private async void OnVoltarButtonClicked(object sender, EventArgs e)
         {
-            // Lógica para deletar matéria prima
-        }
-
-        private void OnSelectUnidadeClicked(object sender, EventArgs e)
-        {
-            // Lógica para selecionar unidade
-        }
-
-        private void OnFinalizarCadastroClicked(object sender, EventArgs e)
-        {
-            // Lógica para finalizar cadastro
-            string nome = NomeEntry.Text;
-            string telefone = TelefoneEntry.Text;
-            string produto = ProdutoEntry.Text;
-            string unidade = UnidadeEntry.Text;
-
-            // Aqui você pode adicionar a lógica para salvar os dados do fornecedor
-        }
-
-        private void OnDeleteClicked(object sender, EventArgs e)
-        {
-            // Lógica para o botão de deletar
-        }
-
-        private void OnRefreshClicked(object sender, EventArgs e)
-        {
-            // Lógica para o botão de refresh
+            // Lógica para voltar à página anterior
+            await Navigation.PopAsync();
         }
     }
 }

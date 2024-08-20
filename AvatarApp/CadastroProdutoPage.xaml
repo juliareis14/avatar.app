@@ -16,13 +16,11 @@
             <Entry x:Name="tipoProdutoEntry"/>
 
             <Label Text="Unidade:"/>
-            <Picker x:Name="unidadePicker"/>
+            <Picker x:Name="pickerProduto"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
-            <Label Text="Características do Produto:"/>
-            <StackLayout Orientation="Horizontal">
-                <Image Source="carrinho.png" WidthRequest="30" HeightRequest="30"/>
-                <Button Text="+" WidthRequest="30" HeightRequest="30"/>
-            </StackLayout>
+            <Label Text="Características do Produto:"
+            Margin="0,20,0,20"/>
 
             <Label Text="Cor:"/>
             <Entry x:Name="corEntry"/>

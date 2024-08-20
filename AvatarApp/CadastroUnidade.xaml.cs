@@ -9,11 +9,6 @@ namespace AvatarApp
             InitializeComponent();
         }
 
-        private void OnAddClicked(object sender, EventArgs e)
-        {
-            // Lógica para o botão de adicionar
-            // Pode ser utilizado para adicionar uma nova unidade ou qualquer outra lógica necessária
-        }
 
         private void OnCadastrarClicked(object sender, EventArgs e)
         {

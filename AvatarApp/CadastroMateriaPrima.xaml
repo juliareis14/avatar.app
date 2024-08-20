@@ -13,10 +13,10 @@
 
             <Entry x:Name="ProdutoEntry"
                    Placeholder="PRODUTO:" />
-
-            <Picker x:Name="UnidadeDeMedidaPicker"
-                    Title="UNIDADE DE MEDIDA:"
-                    ItemsSource="{Binding Unidades}" />
+           <Label Text="Cadastro Matéria Prima"/>  
+           <Picker x:Name="pickerUnidade"
+                        ItemDisplayBinding="{Binding Nome}"/>
+                         
 
             <Button Text="CADASTRAR"
                     x:Name="CadastrarButton" />

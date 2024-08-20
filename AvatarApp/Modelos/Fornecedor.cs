@@ -10,5 +10,8 @@ public class Fornecedor : Pessoa
     public string Nome { get; set; }
     public string Telefone { get; set; }
     public string Tipodoproduto { get; set; }
-    public string Unidade { get; set; }
+    public Unidade Unidade { get; set; }
 }
+
+
+

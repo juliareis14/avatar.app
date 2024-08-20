@@ -1,25 +1,24 @@
 using System.Collections.Generic;
+using AvatarApp.Modelos;
 using Microsoft.Maui.Controls;
 
 namespace AvatarApp
 {
     public partial class CompraMateriaPrima : ContentPage
     {
-        public List<string> Unidades { get; set; }
+        Controles.UnidadeControle unidadeControle = new Controles.UnidadeControle();
+        Controles.FornecedorControle fornecedorControle = new Controles.FornecedorControle();
+        Controles.CompraMpControle compraMpControle = new Controles.CompraMpControle();
 
         public CompraMateriaPrima()
         {
             InitializeComponent();
+            pickerUnidade.ItemsSource = unidadeControle.LerTodos();
+            pickerFornecedor.ItemsSource = fornecedorControle.LerTodos();
+            pickerCompraMp.ItemsSource = compraMpControle.LerTodos();
+            
 
-            Unidades = new List<string>
-            {
-                "Quilogramas",
-                "Litros",
-                "Unidades"
-            };
-
-            BindingContext = this;
-
+           
             FinalizarButton.Clicked += OnFinalizarButtonClicked;
             VoltarButton.Clicked += OnVoltarButtonClicked;
         }

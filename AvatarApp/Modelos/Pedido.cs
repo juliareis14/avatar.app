@@ -1,3 +1,4 @@
+using Avatarapp.Modelos;
 using LiteDB;
 
 namespace AvatarApp.Modelos;
@@ -7,8 +8,8 @@ namespace AvatarApp.Modelos;
     [BsonId]
         public int Id { get; set; }
         public Cliente Cliente { get; set; }
-        public string Produto { get; set; }
-        public string Unidade { get; set; }
+        public Produto Produto { get; set; }
+        public Unidade Unidade { get; set; }
         public decimal Valor { get; set; }
         public decimal Desconto { get; set; }
         public decimal Total { get; set; }

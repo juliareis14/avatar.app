@@ -1,4 +1,5 @@
 using System;
+using AvatarApp.Modelos;
 using Controles;
 using Microsoft.Maui.Controls;
 

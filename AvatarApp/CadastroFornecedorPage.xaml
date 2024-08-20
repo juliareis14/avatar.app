@@ -5,44 +5,42 @@
              Title="Cadastro Fornecedor">
 
     <ScrollView>
-        <StackLayout Padding="20" Spacing="10">
-            <Label Text="Cadastro Fornecedor" 
-                   FontSize="Large" 
-                   HorizontalOptions="Center" 
-                   FontAttributes="Bold"/>
-            
-            <Label Text="Nome:" />
-            <Entry x:Name="NomeEntry" Placeholder="Nome"/>
+        <StackLayout Padding="20" Spacing="20">
 
-            <Label Text="Telefone:" />
-            <Entry x:Name="TelefoneEntry" Placeholder="Telefone"/>
+            <Label Text="Cadastro Fornecedor"
+                   FontSize="Large"
+                   HorizontalOptions="Center" />
 
-            <Label Text="Matéria Prima" FontAttributes="Bold"/>
-            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
-                <Button Text="🗑" WidthRequest="40" HeightRequest="40" Clicked="OnDeleteMateriaPrimaClicked"/>
-                <Button Text="+" WidthRequest="40" HeightRequest="40" Clicked="OnAddMateriaPrimaClicked"/>
-            </StackLayout>
+            <Entry x:Name="NomeEntry"
+                   Placeholder="NOME:" />
 
-            <Label Text="Produto:" />
-            <Entry x:Name="ProdutoEntry" Placeholder="Produto"/>
+            <Entry x:Name="TelefoneEntry"
+                   Placeholder="TELEFONE:"
+                   Keyboard="Telephone" />
 
-            <Label Text="Unidade:" />
-            <StackLayout Orientation="Horizontal">
-                <Entry x:Name="UnidadeEntry" Placeholder="Unidade" HorizontalOptions="FillAndExpand"/>
-                <Button Text="▼" WidthRequest="40" Clicked="OnSelectUnidadeClicked"/>
-            </StackLayout>
+            <Label Text="MATÉRIA PRIMA" />
 
-            <Button Text="Finalizar Cadastro" 
-                    BackgroundColor="#87CEEB" 
-                    TextColor="White" 
-                    Clicked="OnFinalizarCadastroClicked"
-                    HorizontalOptions="Center"/>
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="FillAndExpand">
 
-            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="20">
-                <Button Text="🗑" WidthRequest="40" HeightRequest="40" Clicked="OnDeleteClicked"/>
-                <Button Text="🔄" WidthRequest="40" HeightRequest="40" Clicked="OnRefreshClicked"/>
-            </StackLayout>
+            </StackLayout>         
+            <Label Text="Produto:"/>
+                   <Picker x:Name="pickerProduto"
+                        ItemDisplayBinding="{Binding Nome}"/>
+            <StackLayout>
+
+                <Label Text="Unidade:" />
+                    <Picker x:Name="pickerUnidade"
+                    ItemDisplayBinding="{Binding Nome}"
+                    HorizontalOptions="Fill"/>
+                      </StackLayout>
+
+            <Button Text="FINALIZAR CADASTRO"
+                    x:Name="FinalizarButton" />
+
+            <Button Text="VOLTAR"
+                    x:Name="VoltarButton" />
+
         </StackLayout>
     </ScrollView>
-    
 </ContentPage>
