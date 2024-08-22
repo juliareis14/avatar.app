@@ -6,15 +6,17 @@
 
     <ScrollView>
         <StackLayout Padding="20" Spacing="10">
-            <Label Text="Cadastro Corte" 
+            <Label Text="Envio Corte" 
                    FontSize="Large" 
                    HorizontalOptions="Center" />
 
             <Label Text="Nome:" />
-            <Picker x:Name="NomePicker" />
+                <Picker x:Name="pickerCortador"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Produto:" />
-            <Picker x:Name="ProdutoPicker" />
+            <Picker x:Name="pickerProduto"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Quantidade:" />
             <Entry x:Name="QuantidadeEntry" Keyboard="Numeric" />

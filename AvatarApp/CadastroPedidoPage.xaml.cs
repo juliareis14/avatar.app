@@ -11,7 +11,7 @@ namespace AvatarApp
         public CadastroPedidoPage()
         {
             InitializeComponent();
-            pickerPedido.ItemsSource = clienteControle.LerTodos();
+            Controles.ClienteControle clienteControle = new Controles.ClienteControle();
             pickerPedido.ItemsSource = unidadeControle.LerTodos();
             pickerProduto.ItemsSource = produtoControle.LerTodos();
         }

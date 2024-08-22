@@ -5,9 +5,12 @@ namespace AvatarApp
 {
     public partial class EstoquePage : ContentPage
     {
+         Controles.CadastroMpControle cadastroMpControle = new Controles.CadastroMpControle();
+         Controles.FornecedorControle fornecedorControle = new Controles.FornecedorControle();
         public EstoquePage()
         {
             InitializeComponent();
+             Controles.FornecedorControle fornecedorControle = new Controles.FornecedorControle();
 
             AdicionarButton.Clicked += OnAdicionarButtonClicked;
         }
@@ -15,8 +18,7 @@ namespace AvatarApp
         private void OnAdicionarButtonClicked(object sender, EventArgs e)
         {
             // Lógica para adicionar os dados
-            string materiaPrima = MateriaPrimaPicker.SelectedItem?.ToString();
-            string fornecedor = FornecedorPicker.SelectedItem?.ToString();
+           
             string quantidade = QuantidadeEntry.Text;
             string entrada = EntradaEntry.Text;
 

@@ -12,10 +12,12 @@
                    FontAttributes="Bold" />
 
             <Label Text="Matéria Prima:" />
-            <Picker x:Name="MateriaPrimaPicker" />
+            <Picker x:Name="pickerCadastroMp"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Fornecedor:" />
-            <Picker x:Name="FornecedorPicker" />
+            <Picker x:Name="pickerFornecedor"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Quantidade:" />
             <Entry x:Name="QuantidadeEntry" Keyboard="Numeric" />
