@@ -22,7 +22,7 @@ namespace AvatarApp
         private void OnCadastrarButtonClicked(object sender, EventArgs e)
         {
             // Lógica para cadastrar os dados
-            string nome = NomePicker.SelectedItem?.ToString();
+            
             string telefone = TelefoneEntry.Text;
             string endereco = EnderecoEntry.Text;
 

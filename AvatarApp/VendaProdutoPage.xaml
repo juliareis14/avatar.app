@@ -13,10 +13,8 @@
                    Margin="0,0,0,20"/>
 
             <Label Text="Cliente:"/>
-            <Entry x:Name="clienteEntry"/>
-
-            <Label Text="Telefone:"/>
-            <Entry x:Name="telefoneEntry"/>
+            <Picker x:Name="pickerCliente"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Itens:"/>
             <StackLayout Orientation="Horizontal">
@@ -24,10 +22,12 @@
             </StackLayout>
 
             <Label Text="Produto:"/>
-            <Entry x:Name="produtoEntry"/>
+            <Picker x:Name="pickerProduto"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Unidade:"/>
-            <Picker x:Name="unidadePicker"/>
+            <Picker x:Name="pickerUnidade"
+                        ItemDisplayBinding="{Binding Nome}"/>
 
             <Label Text="Valor:"/>
             <Entry x:Name="valorEntry"/>

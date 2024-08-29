@@ -7,6 +7,7 @@ namespace AvatarApp
         public CadastroEstampadorPage()
         {
             InitializeComponent();
+            
         }
 
         private void OnSelectNomeClicked(object sender, EventArgs e)

@@ -13,7 +13,8 @@
 
             <Entry x:Name="ProdutoEntry"
                    Placeholder="PRODUTO:" />
-           <Label Text="Cadastro Matéria Prima"/>  
+                   
+           <Label Text="Unidade"/>  
            <Picker x:Name="pickerUnidade"
                         ItemDisplayBinding="{Binding Nome}"/>
                          

@@ -10,7 +10,8 @@ namespace AvatarApp
         public EstoquePage()
         {
             InitializeComponent();
-             Controles.FornecedorControle fornecedorControle = new Controles.FornecedorControle();
+              pickerCadastroMp.ItemsSource = cadastroMpControle.LerTodos();
+              pickerFornecedor.ItemsSource = fornecedorControle.LerTodos();
 
             AdicionarButton.Clicked += OnAdicionarButtonClicked;
         }

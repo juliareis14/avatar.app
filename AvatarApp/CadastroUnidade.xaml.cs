@@ -1,19 +1,25 @@
+using AvatarApp.Modelos;
+using Controles;
 using Microsoft.Maui.Controls;
 
 namespace AvatarApp
 {
     public partial class CadastroUnidadePage : ContentPage
     {
+         UnidadeControle unidadeControle = new UnidadeControle();
         public CadastroUnidadePage()
         {
             InitializeComponent();
+        
         }
-
 
         private void OnCadastrarClicked(object sender, EventArgs e)
         {
             // Lógica para o botão "Cadastrar"
-            string nome = NomeEntry.Text;
+            var u = new Unidade();
+            u.Nome = NomeEntry.Text;
+
+             unidadeControle.CriarOuAtualizar(u);
 
             // Aqui você pode adicionar a lógica para salvar os dados da unidade
         }

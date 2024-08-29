@@ -26,30 +26,13 @@
 
             <Button Text="Voltar"
                     Clicked="OnVoltarClicked"/>
-            <Button Text="excluir"
-                    Clicked="OnExcluirSimClicked"/>
 
             <Frame  x:Name="ExcluirCliente"
                     IsVisible="false"
                     BorderColor="Black"
                     CornerRadius="10"
                     Padding="10">
-                <StackLayout>
-                    <Label Text="EXCLUIR CLIENTE?"
-                           HorizontalOptions="Center"
-                           FontAttributes="Bold"/>
-
-                    <StackLayout Orientation="Horizontal"
-                            HorizontalOptions="Center"
-                            Spacing="20">
-                        <Button Text="SIM"
-                                Clicked="OnExcluirSimClicked"
-                                BackgroundColor="#87CEEB"/>
-                        <Button Text="NÃO"
-                                Clicked="OnExcluirNaoClicked"
-                                BackgroundColor="#87CEEB"/>
-                    </StackLayout>
-                </StackLayout>
+                
             </Frame>
 
             <Frame  x:Name="AtualizarCliente"
