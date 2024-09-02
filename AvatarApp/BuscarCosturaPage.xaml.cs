@@ -43,7 +43,12 @@ namespace AvatarApp
 
         private void OnAddClicked(object sender, EventArgs e)
         {
-            // Lógica para adicionar um novo item
+            Navigation.PushAsync(new CadastroCosturaPage());
+        }
+
+        private void OnvoltarClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TelaEntrarPage());
         }
     }
 }

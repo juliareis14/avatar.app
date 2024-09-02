@@ -39,7 +39,8 @@
                     x:Name="FinalizarButton" />
 
             <Button Text="VOLTAR"
-                    x:Name="VoltarButton" />
+                    x:Name="VoltarButton" 
+                    />
 
         </StackLayout>
     </ScrollView>

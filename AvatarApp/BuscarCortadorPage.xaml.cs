@@ -21,7 +21,7 @@ namespace AvatarApp
 
         private void OnAddClicked(object sender, EventArgs e)
         {
-            // Lógica para adicionar nova costura
+          Navigation.PushAsync(new CadastroCortador());
         }
 
         private void OnConfirmarExcluirClicked(object sender, EventArgs e)
@@ -44,6 +44,10 @@ namespace AvatarApp
         private void OnCancelarAtualizarClicked(object sender, EventArgs e)
         {
             AtualizarFrame.IsVisible = false;
+        }
+        private void OnvoltarClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TelaEntrarPage());
         }
     }
 }

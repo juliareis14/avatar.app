@@ -4,7 +4,7 @@
              x:Class="AvatarApp.BuscarCosturaPage"
              Title="Buscar Costura">
 
-    <ScrollView>
+    
         <StackLayout Padding="20" Spacing="10">
             <Label Text="Buscar Costura" 
                    FontSize="Large" 
@@ -25,8 +25,15 @@
                     TextColor="White" 
                     HorizontalOptions="End"
                     Clicked="OnAddClicked"/>
-        </StackLayout>
-    </ScrollView>
+
+                     <Button Text="VOLTAR" 
+                    BackgroundColor="#87CEEB" 
+                    TextColor="White" 
+                    HorizontalOptions="End"
+                    Clicked="OnvoltarClicked"/>
+
+      
+    
 
     <!-- Frame para confirmar exclusão -->
     <Frame x:Name="ExcluirFrame" IsVisible="False" Padding="20" BackgroundColor="White" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
@@ -49,4 +56,5 @@
             </StackLayout>
         </StackLayout>
     </Frame>
+     </StackLayout>
 </ContentPage>

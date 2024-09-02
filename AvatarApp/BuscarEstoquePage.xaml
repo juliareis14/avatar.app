@@ -8,6 +8,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         
@@ -32,6 +33,15 @@
                 Margin="0,20,0,0" 
                 VerticalOptions="End"
                 Clicked="OnAdicionarClicked"/>
+
+                 <Button Text="VOLTAR" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" 
+                CornerRadius="5" 
+                Grid.Row="3"
+                Margin="0,20,0,0" 
+                VerticalOptions="End"
+                Clicked="OnvoltarClicked"/>
                 
         <!-- Frame para Excluir -->
         <Frame x:Name="excluirFrame" 

@@ -14,12 +14,21 @@
 
             <Label Text="Buscar:"/>
             <StackLayout Orientation="Horizontal">
-                <Entry x:Name="buscarEntry"/>
+                <Entry x:Name="buscarEntry"
+                HorizontalOptions="FillAndExpand"/>
                 <Image Source="carrinho.png" WidthRequest="30" HeightRequest="30"/>
                 <Image Source="refresh.png" WidthRequest="30" HeightRequest="30"/>
             </StackLayout>
 
-            <Button Text="+" WidthRequest="30" HeightRequest="30" VerticalOptions="EndAndExpand"/>
+            <Button Text="+" 
+            VerticalOptions="Center"
+            Margin="0,30,20,0"
+            Clicked="OnAdicionarClicked"/>
+
+             <Button Text="VOLTAR" 
+           
+            VerticalOptions="EndAndExpand"
+            Clicked="OnvoltarClicked"/>
 
             <!-- Frame para Exclusão -->
             <Frame IsVisible="False" x:Name="excluirFrame" Padding="10" Margin="0,20,0,0" BackgroundColor="#F5F5F5" CornerRadius="10" HorizontalOptions="Center">

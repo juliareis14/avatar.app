@@ -1,4 +1,5 @@
 using System;
+using AvatarApp;
 using Microsoft.Maui.Controls;
 
 namespace SeuNamespace
@@ -44,7 +45,12 @@ namespace SeuNamespace
 
         private void OnAdicionarClicked(object sender, EventArgs e)
         {
-            // Lógica para adicionar um novo item
+            Navigation.PushAsync(new EstoquePage());
+        }
+
+        private void OnvoltarClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new TelaEntrarPage());
         }
     }
 }
