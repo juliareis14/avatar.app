@@ -1,13 +1,30 @@
+using AvatarApp.Modelos;
+using Controles;
 using Microsoft.Maui.Controls;
 
 namespace AvatarApp
 {
     public partial class BuscarUnidadePage : ContentPage
     {
+        UnidadeControle unidadeControle = new UnidadeControle();
+
         public BuscarUnidadePage()
         {
             InitializeComponent();
         }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            ListaUnidade.ItemsSource = unidadeControle.LerTodos();
+        }
+          async void QuandoSelecionarUmItemNaLista(object sender, SelectedItemChangedEventArgs e)
+        {
+            var page = new CadastroUnidadePage();
+            page.unidade = e.SelectedItem as Unidade;
+            await Navigation.PushAsync(page);
+        }
+
 
         private void OnSearchButtonClicked(object sender, EventArgs e)
         {

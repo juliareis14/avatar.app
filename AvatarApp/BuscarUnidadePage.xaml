@@ -9,6 +9,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
         <Label Grid.Row="0" 
@@ -36,5 +37,31 @@
                     HorizontalOptions="End"
                     Clicked="OnAddButtonClicked"/>
         </StackLayout>
+
+        <ListView x:Name="ListaUnidade"
+           Grid.Row="3"
+              HasUnevenRows="True"
+              ItemSelected="QuandoSelecionarUmItemNaLista"
+              HorizontalOptions="Fill"
+              VerticalOptions="Fill"
+              BackgroundColor="white"
+             >
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <VerticalStackLayout Padding="20"
+                                BackgroundColor="#e374cb">
+              <HorizontalStackLayout>
+                <Label Text="{Binding Nome}"
+                      FontSize="20"/>
+               
+              </HorizontalStackLayout>
+              
+            </VerticalStackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
     </Grid>
 </ContentPage>
