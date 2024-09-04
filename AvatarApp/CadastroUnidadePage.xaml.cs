@@ -47,5 +47,19 @@ namespace AvatarApp
             // Lógica para o botão "Voltar"
             Navigation.PopAsync();
         }
+
+          private async void OnApagarClienteClicked(object sender, EventArgs e)
+  {
+   
+    if (unidade == null || unidade.Id < 1)
+      await DisplayAlert("Erro", "Nenhum cliente para excluir", "ok");
+    else if (await DisplayAlert("Excluir","Tem certeza que deseja excluir esse cliente?","Excluir Cliente","cancelar")) // Caso o usuário tocar no Botão "Excluir Cliente"
+    {
+     
+      unidadeControle.Apagar(unidade.Id);
+      
+      Application.Current.MainPage = new BuscarUnidadePage(); 
+    }
+  }
     }
 }

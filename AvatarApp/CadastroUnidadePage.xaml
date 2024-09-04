@@ -30,6 +30,11 @@
             <Button Text="Voltar" 
                     Clicked="OnVoltarClicked"
                     HorizontalOptions="Center"/>
+
+                      <Button Text="Excluir"
+                        TextColor="Black"
+                        BackgroundColor="Transparent"
+                        Clicked="OnApagarClienteClicked"/>
         </StackLayout>
     </ScrollView>
     
